@@ -15,6 +15,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
