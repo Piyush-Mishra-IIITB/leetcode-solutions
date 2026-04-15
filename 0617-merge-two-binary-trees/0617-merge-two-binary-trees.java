@@ -26,7 +26,7 @@ class Solution {
         return null;
        }
        
-    helper(root1,root2,null,true);
+    helper(root1,root2,null,false);
     return root1;
     }
     public void helper(TreeNode root1,TreeNode root2,TreeNode parent,Boolean left){
@@ -47,7 +47,6 @@ class Solution {
        }
 
         root1.val=root1.val+root2.val;
-      
        helper(root1.left,root2.left,root1,true);
        helper(root1.right,root2.right,root1,false);
     }
