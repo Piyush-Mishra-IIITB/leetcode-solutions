@@ -66,6 +66,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0704-binary-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0704-binary-search) |
 ## Stack
@@ -76,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0704-binary-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0704-binary-search) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
