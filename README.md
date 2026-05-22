@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
