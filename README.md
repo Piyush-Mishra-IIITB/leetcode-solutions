@@ -127,6 +127,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -160,5 +161,6 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
