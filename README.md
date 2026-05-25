@@ -55,6 +55,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0572-subtree-of-another-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -192,6 +193,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0046-permutations) |
@@ -203,4 +205,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
