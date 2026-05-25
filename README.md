@@ -57,6 +57,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0572-subtree-of-another-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
@@ -201,6 +202,7 @@
 | [0047-permutations-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -211,4 +213,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
