@@ -21,7 +21,7 @@ class Solution {
        }
     }
     public boolean palind(String s,int i,int j){
-        while(i<=j){
+        while(i<j){
             if(s.charAt(i)!=s.charAt(j)){
                 return false;
             }else{
