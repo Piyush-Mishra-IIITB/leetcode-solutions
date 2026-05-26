@@ -92,6 +92,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0326-power-of-three](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +208,7 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
