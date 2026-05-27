@@ -96,6 +96,7 @@
 | [0503-next-greater-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -216,6 +217,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
@@ -262,4 +264,12 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
