@@ -59,6 +59,7 @@
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0572-subtree-of-another-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -179,6 +181,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -206,6 +209,7 @@
 | [0060-permutation-sequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
