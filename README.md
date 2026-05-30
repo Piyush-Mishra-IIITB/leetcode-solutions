@@ -5,6 +5,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -21,6 +22,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -45,6 +47,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -108,6 +111,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
