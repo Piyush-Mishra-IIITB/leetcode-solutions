@@ -13,31 +13,24 @@
  *     }
  * }
  */class Solution {
-    int no = 0;
-
-    public int pathSum(TreeNode root, int targetSum) {
-        if(root == null){
-            return no;
-        }
-
-        helper(root, targetSum, 0);
-
-        pathSum(root.left, targetSum);
-        pathSum(root.right, targetSum);
-
-        return no;
+    int no=0;
+    public int pathSum(TreeNode root, int target) {
+   if(root==null ){
+       return 0;
+   }
+   helper(0,target,root);
+   pathSum(root.left,target);
+    pathSum(root.right,target);
+   return no;
     }
-
-    public void helper(TreeNode root, int target, long sum){ 
-        if(root == null){
-            return;
-        }
-
-        if(sum + root.val == target){
-            no++;
-        }
-
-        helper(root.left, target, sum + root.val);
-        helper(root.right, target, sum + root.val);
+   public void helper(long sum,int target,TreeNode root){
+    if(root==null){
+        return;
     }
+    if(root.val+sum==target){
+        no++;
+    }
+    helper(sum+root.val,target,root.left);
+    helper(sum+root.val,target,root.right);
+   }
 }
