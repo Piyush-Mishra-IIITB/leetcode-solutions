@@ -208,6 +208,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -235,6 +236,7 @@
 | [0147-insertion-sort-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 ## Linked List
 |  |
@@ -382,5 +384,6 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
