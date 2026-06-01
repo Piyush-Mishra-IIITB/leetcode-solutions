@@ -8,6 +8,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -55,6 +57,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -311,6 +314,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
