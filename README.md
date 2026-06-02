@@ -27,6 +27,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -56,6 +57,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -101,6 +103,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
