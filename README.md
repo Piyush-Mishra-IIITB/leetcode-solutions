@@ -42,6 +42,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
