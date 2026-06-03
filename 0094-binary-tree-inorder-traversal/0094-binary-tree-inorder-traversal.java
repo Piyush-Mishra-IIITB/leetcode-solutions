@@ -14,20 +14,30 @@
  * }
  */
 
+// morris traversal
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer>ll=new ArrayList<>();
-        helper(root,ll);
+         List<Integer>ll=new ArrayList<>();
+        if(root==null){
+            return ll;
+        }
+      while(root!=null){
+            if(root.left==null){
+            ll.add(root.val);
+            root=root.right;
+        }else{
+            TreeNode curr=root.left;
+            TreeNode a=root;
+            while(curr.right!=null){
+                curr=curr.right;
+            }
+            curr.right=root;
+            root=root.left;
+            a.left=null;
+        }
+      } 
         return ll;
 
-    }
-    public void helper(TreeNode root,List<Integer>ll){
-        if(root==null){
-            return;
-        }
-        helper(root.left,ll);
-        ll.add(root.val);
-        helper(root.right,ll);
     }
    
 }
