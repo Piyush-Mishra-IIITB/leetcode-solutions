@@ -104,6 +104,7 @@
 | [0733-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -263,6 +264,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -342,6 +344,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
