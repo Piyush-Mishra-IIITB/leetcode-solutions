@@ -85,6 +85,7 @@
 | [0841-keys-and-rooms](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -132,6 +133,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -546,6 +548,7 @@
 | [0547-number-of-provinces](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -561,6 +564,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
