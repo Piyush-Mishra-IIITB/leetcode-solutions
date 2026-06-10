@@ -82,6 +82,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+| [0841-keys-and-rooms](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -129,6 +130,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -558,6 +560,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
