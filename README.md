@@ -77,6 +77,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -129,6 +130,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -203,6 +205,7 @@
 | [0402-remove-k-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0572-subtree-of-another-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
@@ -310,6 +313,7 @@
 | [0542-01-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -350,6 +354,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -374,6 +379,7 @@
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -560,6 +566,7 @@
 | [0200-number-of-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
