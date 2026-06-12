@@ -355,6 +355,7 @@
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0433-minimum-genetic-mutation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
@@ -407,6 +408,7 @@
 | [0002-add-two-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -468,6 +470,7 @@
 | [0061-rotate-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
