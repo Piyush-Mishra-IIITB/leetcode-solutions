@@ -39,6 +39,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -99,6 +100,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -159,6 +161,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -207,6 +210,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -630,6 +634,7 @@
 | [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -654,6 +659,7 @@
 | [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
