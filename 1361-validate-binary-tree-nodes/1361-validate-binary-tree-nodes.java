@@ -16,6 +16,23 @@ class Solution {
         }
 
        HashMap<Integer,Integer>hm=new HashMap<>();
+       for(int i=0;i<n;i++){
+            int a=leftChild[i];
+            int b=rightChild[i];
+            if(a!=-1 ){
+                if(hm.containsKey(a)){
+                    return false;
+                }
+                hm.put(a,i);
+            }
+            if(b!=-1 ){
+                if(hm.containsKey(b)){
+                    return false;
+                }
+
+                hm.put(b,i);
+            }
+        }
        int indegree[]=new int[n];
        for(int i=0;i<n;i++){
             int a=leftChild[i];
