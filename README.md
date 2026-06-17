@@ -149,6 +149,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -549,6 +550,7 @@
 | [0136-single-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -559,6 +561,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -643,6 +646,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -695,4 +699,8 @@
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
