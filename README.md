@@ -177,6 +177,7 @@
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -686,6 +687,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -725,4 +727,8 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Prefix Sum
+|  |
+| ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
