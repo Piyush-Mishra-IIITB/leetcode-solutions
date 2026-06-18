@@ -171,6 +171,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1765-map-of-highest-peak](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -385,6 +386,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1765-map-of-highest-peak](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -424,6 +426,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
