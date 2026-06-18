@@ -117,6 +117,7 @@
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -508,6 +510,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -694,6 +697,7 @@
 | [2608-shortest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Topological Sort
 |  |
 | ------- |
@@ -716,6 +720,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
