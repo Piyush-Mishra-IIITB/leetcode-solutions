@@ -44,6 +44,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -114,6 +115,7 @@
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -177,6 +179,7 @@
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -395,6 +398,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2293-min-max-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -421,6 +425,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
@@ -662,6 +667,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -697,6 +703,7 @@
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
