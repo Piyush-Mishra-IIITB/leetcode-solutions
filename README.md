@@ -388,6 +388,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1732-find-the-highest-altitude](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -755,5 +756,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
