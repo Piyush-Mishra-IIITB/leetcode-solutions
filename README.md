@@ -111,6 +111,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -179,6 +180,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -709,6 +711,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -727,6 +730,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [2050-parallel-courses-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
