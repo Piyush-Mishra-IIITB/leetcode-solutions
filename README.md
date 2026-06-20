@@ -170,6 +170,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -387,6 +388,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -513,6 +515,7 @@
 | [0994-rotting-oranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
