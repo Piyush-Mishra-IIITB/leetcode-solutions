@@ -37,7 +37,7 @@ class Solution {
             pair p=pq.poll();
             int no=p.node;
             int d=p.dist;
-            if(dist[no]>d){
+            if(dist[no]<d){
                 continue;
             }
             for(Integer it:adj.get(no)){
