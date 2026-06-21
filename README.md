@@ -427,6 +427,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -538,6 +539,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -650,6 +652,7 @@
 | [2293-min-max-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3838-weighted-word-mapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Combinatorics
 |  |
