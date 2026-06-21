@@ -405,6 +405,7 @@
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2050-parallel-courses-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
@@ -466,6 +467,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -677,6 +679,7 @@
 | [0402-remove-k-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
@@ -808,4 +811,8 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
