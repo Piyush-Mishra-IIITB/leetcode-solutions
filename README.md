@@ -113,6 +113,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -422,6 +423,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -653,6 +655,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2050-parallel-courses-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Simulation
 |  |
@@ -764,6 +767,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
@@ -790,6 +794,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
