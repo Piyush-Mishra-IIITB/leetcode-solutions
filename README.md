@@ -253,6 +253,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -517,6 +518,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
@@ -667,6 +669,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
