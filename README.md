@@ -445,6 +445,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -564,6 +565,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Divide and Conquer
 |  |
@@ -587,6 +589,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Recursion
 |  |
 | ------- |
@@ -803,6 +806,7 @@
 | [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
 |  |
@@ -838,6 +842,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Minimum Spanning Tree
 |  |
