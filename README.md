@@ -106,6 +106,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1462-course-schedule-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -177,6 +178,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1462-course-schedule-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -743,6 +745,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1462-course-schedule-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -780,6 +783,7 @@
 | [0310-minimum-height-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
