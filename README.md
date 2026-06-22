@@ -263,6 +263,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -452,6 +453,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -462,6 +464,7 @@
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
 |  |
