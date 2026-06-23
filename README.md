@@ -103,6 +103,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -180,6 +181,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1306-jump-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1361-validate-binary-tree-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -413,6 +415,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1306-jump-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
