@@ -373,6 +373,7 @@
 | [0046-permutations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -575,6 +576,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -709,6 +711,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
