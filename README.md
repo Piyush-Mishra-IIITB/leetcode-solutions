@@ -417,6 +417,7 @@
 | [0875-koko-eating-bananas](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-monotonic-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0980-unique-paths-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0980-unique-paths-iii) |
@@ -528,6 +529,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
@@ -662,6 +664,7 @@
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
