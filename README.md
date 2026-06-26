@@ -551,6 +551,7 @@
 | [0002-add-two-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -700,6 +701,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -874,6 +876,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Shortest Path
