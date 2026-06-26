@@ -557,6 +557,7 @@
 | [0002-add-two-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
@@ -707,6 +708,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -746,6 +748,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Number Theory
