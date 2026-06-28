@@ -276,6 +276,7 @@
 | [0402-remove-k-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0572-subtree-of-another-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -401,6 +402,7 @@
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -750,6 +752,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0542-01-matrix) |
