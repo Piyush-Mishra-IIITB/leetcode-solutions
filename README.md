@@ -142,6 +142,7 @@
 | [0130-surrounded-regions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -585,6 +586,7 @@
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -752,6 +754,7 @@
 | [0198-house-robber](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
