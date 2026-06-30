@@ -295,6 +295,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -526,6 +527,7 @@
 | [1345-jump-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -539,6 +541,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -1017,4 +1020,5 @@
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
