@@ -280,6 +280,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -517,6 +518,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0567-permutation-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0815-bus-routes) |
@@ -703,6 +705,7 @@
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -1029,6 +1032,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
