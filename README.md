@@ -458,6 +458,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1219-path-with-maximum-gold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -540,6 +541,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -619,6 +621,7 @@
 | [0367-valid-perfect-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -1018,6 +1021,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1048,6 +1052,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
