@@ -478,6 +478,7 @@
 | [1514-path-with-maximum-probability](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -554,6 +555,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -1042,6 +1044,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
