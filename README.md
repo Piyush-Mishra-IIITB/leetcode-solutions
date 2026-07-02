@@ -501,6 +501,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2050-parallel-courses-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -572,6 +573,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -588,6 +590,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
