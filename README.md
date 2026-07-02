@@ -269,6 +269,7 @@
 | [0043-multiply-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -743,6 +744,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
