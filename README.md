@@ -342,6 +342,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Stack
@@ -515,6 +516,7 @@
 | [2305-fair-distribution-of-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -610,6 +612,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -763,6 +766,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Monotonic Stack
 |  |
