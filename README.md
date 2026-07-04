@@ -450,6 +450,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -568,6 +569,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0815-bus-routes) |
