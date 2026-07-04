@@ -543,6 +543,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
@@ -890,6 +891,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2466-count-ways-to-build-good-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Simulation
 |  |
 | ------- |
