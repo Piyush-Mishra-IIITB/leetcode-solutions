@@ -495,6 +495,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -897,6 +898,7 @@
 | [1143-longest-common-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
