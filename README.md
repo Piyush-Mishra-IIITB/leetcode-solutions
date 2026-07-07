@@ -440,6 +440,7 @@
 | [0377-combination-sum-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
@@ -897,6 +898,7 @@
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -1172,6 +1174,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0567-permutation-in-string) |
