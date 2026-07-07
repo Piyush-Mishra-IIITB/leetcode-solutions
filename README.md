@@ -442,6 +442,7 @@
 | [0399-evaluate-division](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -899,6 +900,7 @@
 | [0343-integer-break](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0518-coin-change-ii) |
