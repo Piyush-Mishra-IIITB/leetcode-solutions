@@ -480,6 +480,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0879-profitable-schemes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-monotonic-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -720,6 +721,7 @@
 | [0415-add-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -932,6 +934,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1232,4 +1235,8 @@
 | [0239-sliding-window-maximum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
