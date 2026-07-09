@@ -548,6 +548,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2140-solving-questions-with-brainpower](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -957,6 +958,7 @@
 | [2008-maximum-earnings-from-taxi](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2050-parallel-courses-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2140-solving-questions-with-brainpower](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2305-fair-distribution-of-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
