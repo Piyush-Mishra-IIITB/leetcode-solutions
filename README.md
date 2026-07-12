@@ -517,6 +517,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -624,6 +625,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -670,6 +672,7 @@
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
