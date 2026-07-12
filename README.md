@@ -442,6 +442,7 @@
 | [0221-maximal-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0322-coin-change) |
@@ -1022,6 +1023,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -1197,6 +1199,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
