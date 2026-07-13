@@ -444,6 +444,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0322-coin-change) |
@@ -792,6 +793,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1028,6 +1030,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -1225,6 +1228,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -1264,4 +1268,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
