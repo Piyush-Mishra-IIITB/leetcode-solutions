@@ -1014,6 +1014,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
