@@ -750,6 +750,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
@@ -1023,6 +1024,7 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
