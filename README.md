@@ -395,6 +395,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -536,6 +537,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -722,6 +724,7 @@
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1058,10 +1061,12 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
 | ------- |
@@ -1310,4 +1315,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
