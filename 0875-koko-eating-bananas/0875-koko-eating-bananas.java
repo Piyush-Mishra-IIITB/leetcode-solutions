@@ -1,28 +1,30 @@
 class Solution {
     public int minEatingSpeed(int[] arr, int h) {
-        int largest=arr[0];
-        int smallest=1;
-        for(int i=0;i<arr.length;i++){
-             largest=Math.max(largest,arr[i]);
+        int max = Integer.MIN_VALUE;
+
+        for (int i = 0; i < arr.length; i++) {
+            max = Math.max(arr[i], max);
         }
-        int output=Integer.MAX_VALUE;
-        while(smallest<=largest){
-            int mid=smallest+(largest-smallest)/2;
-            if(helper(arr,mid)<=h){
-                 output=Math.min(output,mid);
-                 largest=mid-1;
-            }
-            else{
-                smallest=mid+1;
+
+        int start = 1;
+        int end = max;
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            if (helper(mid, arr, h)) {
+                end = mid - 1;
+            } else {
+                start = mid + 1;
             }
         }
-        return output;
+        return start;
     }
-    public int helper(int arr[],int j){
-        int hour=0;
-        for(int i=0;i<arr.length;i++){
-           hour+= Math.ceil(arr[i]/(double)j);
+    public boolean helper(int speed, int[] arr, int h) {
+        long timeTaken = 0; 
+        for (int i = 0; i < arr.length; i++) {
+            timeTaken += (int) Math.ceil(arr[i] * 1.0 / speed);
         }
-        return hour;
+
+        return timeTaken <= h;
     }
 }
