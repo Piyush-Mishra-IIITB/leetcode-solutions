@@ -344,6 +344,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -465,6 +466,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -981,6 +983,7 @@
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
@@ -1093,6 +1096,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1258,6 +1262,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
