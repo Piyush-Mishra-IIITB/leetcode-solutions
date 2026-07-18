@@ -562,6 +562,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
@@ -766,6 +767,7 @@
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -1046,6 +1048,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
