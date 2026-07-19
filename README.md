@@ -299,6 +299,7 @@
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -396,6 +397,7 @@
 | [0946-validate-stack-sequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -906,6 +908,7 @@
 | [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1100,6 +1103,7 @@
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1402-reducing-dishes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
