@@ -535,6 +535,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -811,6 +812,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1040,6 +1042,7 @@
 | [0415-add-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [1260-shift-2d-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
