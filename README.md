@@ -577,6 +577,7 @@
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-parallel-courses-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -724,6 +725,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -784,6 +786,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -828,6 +831,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
