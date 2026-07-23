@@ -467,6 +467,7 @@
 | [0322-coin-change](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -861,6 +862,7 @@
 | [0239-sliding-window-maximum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0743-network-delay-time) |
