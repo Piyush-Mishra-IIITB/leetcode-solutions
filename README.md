@@ -483,6 +483,7 @@
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -951,6 +952,7 @@
 | [0113-path-sum-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0473-matchsticks-to-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0980-unique-paths-iii) |
@@ -968,6 +970,7 @@
 | [0137-single-number-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0473-matchsticks-to-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0980-unique-paths-iii) |
@@ -1014,6 +1017,7 @@
 | [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0473-matchsticks-to-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -1287,6 +1291,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2305-fair-distribution-of-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Prefix Sum
