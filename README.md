@@ -495,6 +495,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -721,6 +722,7 @@
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0561-array-partition) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -1136,6 +1138,7 @@
 | [0402-remove-k-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1321,6 +1324,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Segment Tree
