@@ -12,11 +12,15 @@ class Solution {
         return helper(0,arr,find,vis,find,0);
     }
     public boolean helper(int ind,int arr[],int find,boolean vis[],int sum,int count){
+        
         if(count==4){
             return true;
         }
         if(find==0){
             return helper(0,arr,sum,vis,sum,count+1);
+        }
+        if(ind==arr.length){
+            return false;
         }
         for(int i=ind;i<arr.length;i++){
              if(vis[i]==false && arr[i]<=find){
