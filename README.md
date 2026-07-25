@@ -747,6 +747,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -808,6 +809,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3536-maximum-product-of-two-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
