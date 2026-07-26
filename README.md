@@ -500,6 +500,7 @@
 | [0561-array-partition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0697-degree-of-an-array) |
@@ -728,6 +729,7 @@
 | [0506-relative-ranks](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -801,6 +803,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
