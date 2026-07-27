@@ -328,6 +328,7 @@
 | [2937-make-three-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2937-make-three-strings-equal) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3407-substring-matching-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3838-weighted-word-mapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Function
 |  |
@@ -1123,6 +1124,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Ordered Set
 |  |
 | ------- |
