@@ -20,20 +20,17 @@ class Node {
 class Solution {
     public List<Integer> preorder(Node root) {
         List<Integer>ll=new ArrayList<>();
-        helper(root,ll);
+        helper(ll,root);
         return ll;
     }
-    public void helper(Node root,List<Integer>ll){
-     if(root==null){
-        return;
-     }
-     ll.add(root.val);
-     int size=root.children.size();
-     int i=0;
-     while(size>0){
-          helper(root.children.get(i),ll);
-          i++;
-          size--;
-     }
+    public void helper(List<Integer>ll,Node root){
+        if(root==null){
+            return;
+        }
+        ll.add(root.val);
+        List<Node>child=root.children;
+        for(int i=0;i<child.size();i++){
+            helper(ll,child.get(i));
+        }
     }
 }
