@@ -1,34 +1,33 @@
 
 class Solution {
     public boolean hasPathSum(TreeNode root, int target) {
-        List<List<Integer>>ans=new ArrayList<>();
+        List<List<Integer>>adj=new ArrayList<>();
         List<Integer>ll=new ArrayList<>();
-        helper(ans,ll,root);
-        for(int i=0;i<ans.size();i++){
-            List<Integer>a=ans.get(i);
-            int p=0;
-            for(int j=0;j<a.size();j++){
-              p+=a.get(j);
+        helper(adj,ll,root);
+        for(int i=0;i<adj.size();i++){
+            List<Integer>l=adj.get(i);
+            int sum=0;
+            for(int j=0;j<l.size();j++){
+                 sum+=l.get(j);
             }
-            if(p==target){
+            if(sum==target){
                 return true;
             }
         }
         return false;
     }
-    public void helper(List<List<Integer>>ans,List<Integer>ll,TreeNode root){
+    public void helper(List<List<Integer>>adj,List<Integer>ll,TreeNode root){
         if(root==null){
             return;
         }
+        ll.add(root.val);
         if(root.left==null && root.right==null){
-            ll.add(root.val);
-            ans.add(new ArrayList<>(ll));
+            adj.add(new ArrayList<>(ll));
             ll.remove(ll.size()-1);
             return;
         }
-        ll.add(root.val);
-        helper(ans,ll,root.left);
-        helper(ans,ll,root.right);
+        helper(adj,ll,root.left);
+        helper(adj,ll,root.right);
         ll.remove(ll.size()-1);
     }
 }
