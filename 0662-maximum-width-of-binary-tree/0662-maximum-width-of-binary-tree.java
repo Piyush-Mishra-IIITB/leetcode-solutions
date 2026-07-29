@@ -11,33 +11,32 @@ class Solution {
     }
     int max=0;
     public int widthOfBinaryTree(TreeNode root) {  
-        Queue<pair>qq=new LinkedList<>();
-        qq.add(new pair(root,0));
-        
-        while(!qq.isEmpty()){
-            int size=qq.size();
-            int first=0;
-            int last=0;
-            for(int i=0;i<size;i++){
-                pair p=qq.poll();
-                TreeNode curr=p.root;
-                int ind=p.index;  
+       Queue<pair>qq=new LinkedList<>();
+       qq.add(new pair(root,0));
+       
+       while(!qq.isEmpty()){
+           int size=qq.size();
+           int val=0;
+           int last=0;
+           for(int i=0;i<size;i++){
+               pair p=qq.poll();
+               TreeNode r=p.root;
+               int ind=p.index;
                if(i==0){
-                first=p.index;
+                val=ind;
                }
                if(i==size-1){
-                last=p.index;
+                last=ind-val;
                }
-              if(curr.left!=null){
-                qq.add(new pair(curr.left,2*ind+1));
-              }
-              if(curr.right!=null){
-                qq.add(new pair(curr.right,2*ind+2));
-              }
-              
-            }
-             max=Math.max(max,last-first+1);
-        }
-        return max;  
+               if(r.left!=null){
+                 qq.add(new pair(r.left,2*ind+1));
+               }
+               if(r.right!=null){
+                qq.add(new pair(r.right,2*ind+2));
+               }
+               max=Math.max(max,last+1);
+           }
+       }
+       return max;
     }
 }
