@@ -326,6 +326,7 @@
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2937-make-three-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2937-make-three-strings-equal) |
@@ -704,6 +705,7 @@
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2364-count-number-of-bad-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -721,6 +723,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -1191,6 +1194,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union-Find
