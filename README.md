@@ -301,6 +301,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -360,6 +361,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -524,6 +526,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0815-bus-routes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
@@ -678,6 +681,7 @@
 | [0705-design-hashset](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0815-bus-routes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
@@ -748,6 +752,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -1071,6 +1076,7 @@
 | [0542-01-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0879-profitable-schemes) |
@@ -1449,4 +1455,5 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
