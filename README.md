@@ -334,6 +334,7 @@
 | [2937-make-three-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2937-make-three-strings-equal) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3407-substring-matching-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -715,6 +716,7 @@
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -732,6 +734,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -776,6 +779,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
@@ -1210,6 +1214,7 @@
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union-Find
 |  |
