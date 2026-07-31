@@ -303,6 +303,7 @@
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -365,6 +366,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -538,6 +540,7 @@
 | [0879-profitable-schemes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0879-profitable-schemes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-monotonic-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -834,6 +837,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1088,6 +1092,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0879-profitable-schemes) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
