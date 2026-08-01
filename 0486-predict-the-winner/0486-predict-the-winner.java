@@ -1,24 +1,24 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
-          return helper(nums,0,nums.length-1,1,0,0);
+         return helper(0,nums.length-1,1,0,0,nums);
     }
-    public boolean helper(int arr[],int i,int j,int play,int playera,int playerb){
-      if(i>j){
-          if(playera>=playerb){
-            return true;
-          }
-          return false;
-      }
-      boolean a;
-      if(play==1){
-          boolean front=helper(arr,i+1,j,0,playera+arr[i],playerb);
-          boolean back=helper(arr,i,j-1,0,playera+arr[j],playerb);
-          a=front || back;
-      }else{
-          boolean front=helper(arr,i+1,j,1,playera,playerb+arr[i]);
-          boolean back=helper(arr,i,j-1,1,playera,playerb+arr[j]);
-          a=front && back;
-      }
-      return a;
+    public boolean helper(int i,int j,int turn,int player1,int player2,int arr[]){
+        if(i>j){
+            if(player1>=player2){
+                return true;
+            }
+            return false;
+        }
+        boolean ans=false;
+        if(turn==1){
+            boolean fr=helper(i+1,j,0,player1+arr[i],player2,arr);
+            boolean bk=helper(i,j-1,0,player1+arr[j],player2,arr);
+            ans= fr || bk;
+        }else{
+            boolean fr=helper(i+1,j,1,player1,player2+arr[i],arr);
+            boolean bk=helper(i,j-1,1,player1,player2+arr[j],arr);
+            ans= fr && bk;
+        }
+        return ans;
     }
 }
