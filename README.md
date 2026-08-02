@@ -848,6 +848,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2364-count-number-of-bad-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2376-count-special-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -1129,6 +1130,7 @@
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2305-fair-distribution-of-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2376-count-special-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2466-count-ways-to-build-good-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
