@@ -840,6 +840,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1012-numbers-with-repeated-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1106,6 +1107,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0956-tallest-billboard](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1012-numbers-with-repeated-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
