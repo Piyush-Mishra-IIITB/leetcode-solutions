@@ -1,5 +1,7 @@
 class Solution {
+    Integer dp[][][][];
     public int countSpecialNumbers(int n) {
+        dp=new Integer[10][2][1025][2];
         StringBuilder sb=new StringBuilder();
         while(n>0){
             sb.append(n%10);
@@ -10,6 +12,9 @@ class Solution {
     public int helper(int ind,int tide,int mask,int lz,String s){
         if(ind==s.length()){
             return 1;
+        }
+        if(dp[ind][tide][mask][lz]!=null){
+            return dp[ind][tide][mask][lz];
         }
         int ans=0;
         int lw=0;
@@ -40,6 +45,6 @@ class Solution {
             }
             
         }
-        return ans;  
+        return dp[ind][tide][mask][lz]=ans;  
     }
 }
