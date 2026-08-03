@@ -827,6 +827,7 @@
 | [0263-ugly-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -1477,6 +1478,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
@@ -1504,9 +1506,22 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
