@@ -582,6 +582,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -846,6 +847,7 @@
 | [1012-numbers-with-repeated-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1128,6 +1130,7 @@
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-reducing-dishes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1477,6 +1480,7 @@
 | [0464-can-i-win](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Binary Indexed Tree
 |  |
@@ -1497,4 +1501,12 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
