@@ -283,6 +283,7 @@
 | [0140-word-break-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -830,6 +831,7 @@
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -964,6 +966,7 @@
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -1090,6 +1093,7 @@
 | [0213-house-robber-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0312-burst-balloons) |
@@ -1369,6 +1373,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0464-can-i-win) |
@@ -1550,4 +1555,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
