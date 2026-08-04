@@ -557,6 +557,7 @@
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -779,6 +780,7 @@
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -937,6 +939,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0654-maximum-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
@@ -951,6 +954,7 @@
 | [0743-network-delay-time](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1461,6 +1465,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -1475,6 +1480,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
@@ -1563,10 +1569,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
