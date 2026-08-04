@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -354,6 +356,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1028,6 +1031,7 @@
 | [0077-combinations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0140-word-break-ii) |
@@ -1077,6 +1081,7 @@
 | [0064-minimum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
