@@ -532,6 +532,7 @@
 | [0575-distribute-candies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -869,6 +870,7 @@
 | [0464-can-i-win](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
