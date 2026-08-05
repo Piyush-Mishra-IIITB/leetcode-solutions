@@ -535,6 +535,7 @@
 | [0598-range-addition-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0697-degree-of-an-array) |
