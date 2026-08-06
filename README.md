@@ -894,6 +894,7 @@
 | [2719-count-of-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2719-count-of-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -1239,6 +1240,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Ordered Set
 |  |
