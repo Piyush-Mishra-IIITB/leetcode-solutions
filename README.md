@@ -874,6 +874,7 @@
 | [0343-integer-break](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -1149,6 +1150,7 @@
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0403-frog-jump) |
@@ -1555,6 +1557,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0877-stone-game) |
@@ -1585,6 +1588,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
