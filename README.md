@@ -630,6 +630,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1765-map-of-highest-peak](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -1200,6 +1201,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
