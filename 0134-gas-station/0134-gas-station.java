@@ -1,33 +1,42 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        if(gas.length==1){
-            if(gas[0]==cost[0]){
-                return 0;
-            }
+        int sum=0;
+        int sum2=0;
+        for(int i=0;i<gas.length;i++){
+            sum+=gas[i];
         }
-       int n=gas.length;
-        boolean vis[]=new boolean[n];
-        for(int i=0;i<n;i++){
-
-                if(gas[i]>cost[i]){
-                    if(helper(i,gas,cost,n)){
-                        return i;
-                    }
-                }
+        for(int i=0;i<cost.length;i++){
+            sum2+=cost[i];
+        }
+        
+        if(sum<sum2){
+            return -1;
+        }
+        for(int i=0;i<cost.length;i++){
+            if(gas[i]>=cost[i]){
+                int a=helper(i,gas,cost);
+            if(a==i){
+                return i;
+            }else{
+                i=a-1;
+            }
+            }
         }
         return -1;
     }
-    public boolean helper(int i,int gas[],int cost[],int n){
-           int g=0;
-           g=g+gas[i];
-           int j=i;
-           for(j=i+1;j<2*n;j++){
-                g-=cost[(j-1)%n];
-                if(g<0){
-                    return false;
-                }
-                g+=gas[j%n];
-           }
-           return true;
+    public int helper(int ind,int gas[],int cost[]){
+        
+        int length=gas.length;
+        int c=gas[ind%length]-cost[ind%length];
+        for(int i=ind+1;i<2*gas.length;i++){
+            if(c<0){
+                return i%length;
+            }
+            if(i%length==ind){
+                return ind;
+            }
+            c+=gas[i%length]-cost[i%length];
+        }
+        return -1;
     }
 }
