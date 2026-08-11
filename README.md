@@ -329,6 +329,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [1416-restore-the-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1416-restore-the-array) |
@@ -925,6 +926,7 @@
 | [1012-numbers-with-repeated-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1037-valid-boomerang](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -1359,6 +1361,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1402-reducing-dishes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
