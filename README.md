@@ -574,6 +574,7 @@
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0845-longest-mountain-in-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
+| [0846-hand-of-straights](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -755,6 +756,7 @@
 | [0815-bus-routes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
+| [0846-hand-of-straights](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -842,6 +844,7 @@
 | [0767-reorganize-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0846-hand-of-straights](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -1380,6 +1383,7 @@
 | [0763-partition-labels](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0846-hand-of-straights](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
