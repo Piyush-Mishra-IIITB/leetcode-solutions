@@ -1,24 +1,23 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        HashMap<Character, Integer> largest = new HashMap<>();
+
+        HashMap<Character, Integer> hm = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
-            char curr = s.charAt(i);
-            largest.put(curr, i);
+            hm.put(s.charAt(i), i);
         }
         List<Integer> ans = new ArrayList<>();
         int start = 0;
-        int last = largest.get(s.charAt(0));
-
-        for (int i = 0; i < s.length(); i++) {
-            last = Math.max(last, largest.get(s.charAt(i)));
-            if (i == last) {
-                ans.add(i - start + 1);
-                start = i + 1;
-                if (start < s.length()) {
-                    last = largest.get(s.charAt(start));
-                }
+        while (start < s.length()) {
+            int end = hm.get(s.charAt(start));
+            int i = start;
+            while (i <= end) {
+                end = Math.max(end, hm.get(s.charAt(i)));
+                i++;
             }
+            ans.add(end - start + 1);
+            start = end + 1;
         }
+
         return ans;
     }
 }
