@@ -611,6 +611,7 @@
 | [1046-last-stone-weight](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -852,6 +853,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1044,6 +1046,7 @@
 | [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1295,6 +1298,7 @@
 | [0682-baseball-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1603-design-parking-system) |
@@ -1582,6 +1586,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
