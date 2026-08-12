@@ -691,6 +691,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -781,6 +782,7 @@
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -1618,6 +1620,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
