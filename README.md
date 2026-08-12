@@ -519,6 +519,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
@@ -825,6 +826,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1591,6 +1593,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3477-fruits-into-baskets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3479-fruits-into-baskets-iii) |
@@ -1650,6 +1653,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Randomized
 |  |
