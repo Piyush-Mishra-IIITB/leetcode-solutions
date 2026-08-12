@@ -604,6 +604,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1035-uncrossed-lines](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1037-valid-boomerang](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -850,6 +851,7 @@
 | [0912-sort-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1388,6 +1390,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -1761,4 +1764,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
