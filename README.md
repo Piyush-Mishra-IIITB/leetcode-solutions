@@ -32,6 +32,7 @@
 | [0654-maximum-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
@@ -253,6 +254,7 @@
 | [0654-maximum-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
@@ -379,6 +381,7 @@
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
