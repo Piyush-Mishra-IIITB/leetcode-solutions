@@ -17,22 +17,24 @@ class Solution {
     public TreeNode insertIntoBST(TreeNode root, int val) {
         TreeNode new_node = new TreeNode(val);
         if(root == null) return new_node;
-        insert(new_node, root);
-        return root;
+        return helper(root,new_node);
+
     }
-    void insert(TreeNode new_node, TreeNode curr){
-        if(curr.val<new_node.val && curr.right == null){
-            curr.right = new_node;
-            return;
+    public TreeNode helper(TreeNode root,TreeNode newNode){
+        if(root.val>newNode.val && root.left==null){
+            root.left=newNode;
+            return root;
         }
-        if(curr.val>new_node.val && curr.left == null){
-            curr.left = new_node;
-            return;
+        else if(root.val<newNode.val && root.right==null){
+            root.right=newNode;
+            return root;
         }
-        if(curr.val<new_node.val){
-            insert(new_node, curr.right);
-            return;
+        if(root.val>newNode.val){
+            root.left=helper(root.left,newNode);
         }
-        insert(new_node, curr.left);
+        else{
+            root.right=helper(root.right,newNode);
+        }
+        return root;
     }
 }
