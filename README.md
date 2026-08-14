@@ -15,6 +15,7 @@
 | [0113-path-sum-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
@@ -67,6 +68,7 @@
 | [0130-surrounded-regions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
@@ -244,6 +246,7 @@
 | [0113-path-sum-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
@@ -383,6 +386,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1800,4 +1804,12 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
