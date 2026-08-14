@@ -3,41 +3,38 @@ class Trie {
         Node links[]=new Node[26];
         boolean flag=false;
 
-
-       boolean containsKey(char c){
-           return links[c-'a']!=null;
-       }
-       Node get(char ch) {
-            return links[ch - 'a'];
+        boolean containsKey(char curr){
+            return links[curr-'a']!=null;
         }
-
-       void put(char ch,Node node){
-        links[ch-'a']=node;
-       }
-       void setEnd(){
-           flag=true;
-       }
-       boolean isEnd(){
-        return flag;
-       }
-
-
+        void put(char curr,Node node){
+            links[curr-'a']=node;
+        }
+        Node get(char curr){
+            return links[curr-'a'];
+        }
+        void setEnd(){
+            flag=true;
+        }
+        boolean isEnd(){
+            return flag;
+        }
     }
     public Node root;
     public Trie() {
-        root=new Node();
+       root=new Node();
     }
     
     public void insert(String word) {
-        Node node=root;
-        for(int i=0;i<word.length();i++){
-            char curr=word.charAt(i);
-            if(!node.containsKey(curr)){
-                node.put(curr,new Node());
-            }
-            node=node.get(curr);
-        }
-        node.setEnd();
+       Node node=root;
+       for(int i=0;i<word.length();i++){
+        char ch=word.charAt(i);
+           if(!node.containsKey(ch)){
+              node.put(ch,new Node());
+           }
+           node=node.get(ch);
+       }
+       node.setEnd();
+
     }
     
     public boolean search(String word) {
@@ -47,19 +44,19 @@ class Trie {
             if(!node.containsKey(curr)){
                 return false;
             }
-            node=node.get(curr);
+            node = node.get(curr);
         }
         return node.isEnd();
     }
     
     public boolean startsWith(String word) {
-         Node node=root;
+        Node node=root;
         for(int i=0;i<word.length();i++){
             char curr=word.charAt(i);
             if(!node.containsKey(curr)){
                 return false;
             }
-            node=node.get(curr);
+             node = node.get(curr);
         }
         return true;
     }
