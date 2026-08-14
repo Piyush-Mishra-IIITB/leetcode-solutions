@@ -17,6 +17,7 @@
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -243,6 +244,7 @@
 | [0337-house-robber-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -381,6 +383,7 @@
 | [0367-valid-perfect-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
