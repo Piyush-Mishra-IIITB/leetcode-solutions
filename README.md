@@ -353,6 +353,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -847,6 +848,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1603-design-parking-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -1440,6 +1442,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
