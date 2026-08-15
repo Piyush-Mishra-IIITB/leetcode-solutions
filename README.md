@@ -361,6 +361,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1268-search-suggestions-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1396-design-underground-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [1416-restore-the-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -427,6 +428,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1382-balance-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -663,6 +665,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -905,6 +908,7 @@
 | [1029-two-city-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1099,6 +1103,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1751,6 +1756,7 @@
 | [0648-replace-words](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
+| [1268-search-suggestions-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Minimax
 |  |
 | ------- |
