@@ -72,6 +72,7 @@
 | [0130-surrounded-regions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -317,6 +318,7 @@
 | [0140-word-break-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -1394,6 +1396,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
@@ -1737,6 +1740,7 @@
 | [0014-longest-common-prefix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Minimax
 |  |
