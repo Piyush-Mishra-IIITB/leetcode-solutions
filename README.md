@@ -339,6 +339,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0648-replace-words](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -601,6 +602,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0720-longest-word-in-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -794,6 +796,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0720-longest-word-in-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -888,6 +891,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0720-longest-word-in-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -1745,6 +1749,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Minimax
 |  |
