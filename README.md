@@ -1326,6 +1326,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
