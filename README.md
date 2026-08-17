@@ -689,6 +689,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1563-stone-game-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -1010,6 +1011,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1338,6 +1340,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -1736,6 +1739,7 @@
 | [1140-stone-game-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Binary Indexed Tree
 |  |
