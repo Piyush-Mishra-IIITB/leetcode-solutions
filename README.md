@@ -753,6 +753,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -857,6 +858,7 @@
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1200,6 +1202,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Monotonic Stack
 |  |
