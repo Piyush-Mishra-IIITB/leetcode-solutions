@@ -646,6 +646,7 @@
 | [0946-validate-stack-sequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0956-tallest-billboard](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [0973-k-closest-points-to-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -827,6 +828,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -1685,6 +1687,7 @@
 | [0525-contiguous-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1140-stone-game-ii) |
