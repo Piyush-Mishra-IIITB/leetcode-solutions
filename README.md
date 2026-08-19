@@ -544,6 +544,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -995,6 +996,7 @@
 | [0062-unique-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -1184,6 +1186,7 @@
 | [0125-valid-palindrome](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0443-string-compression) |
