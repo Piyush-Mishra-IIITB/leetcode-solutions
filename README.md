@@ -755,6 +755,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -1212,6 +1213,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -1418,6 +1420,7 @@
 | [2293-min-max-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2460-apply-operations-to-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
