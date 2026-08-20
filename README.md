@@ -743,6 +743,7 @@
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -1212,6 +1213,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
