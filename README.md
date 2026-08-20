@@ -767,6 +767,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1415,6 +1416,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
