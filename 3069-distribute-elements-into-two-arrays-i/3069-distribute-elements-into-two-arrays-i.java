@@ -2,7 +2,6 @@ class Solution {
     public int[] resultArray(int[] nums) {
         List<Integer>first=new ArrayList<>();
         List<Integer>second=new ArrayList<>();
-
         first.add(nums[0]);
         second.add(nums[1]);
         for(int i=2;i<nums.length;i++){
