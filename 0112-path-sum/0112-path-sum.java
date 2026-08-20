@@ -1,33 +1,36 @@
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    public boolean hasPathSum(TreeNode root, int target) {
-        List<List<Integer>>adj=new ArrayList<>();
-        List<Integer>ll=new ArrayList<>();
-        helper(adj,ll,root);
-        for(int i=0;i<adj.size();i++){
-            List<Integer>l=adj.get(i);
-            int sum=0;
-            for(int j=0;j<l.size();j++){
-                 sum+=l.get(j);
-            }
-            if(sum==target){
-                return true;
-            }
-        }
-        return false;
-    }
-    public void helper(List<List<Integer>>adj,List<Integer>ll,TreeNode root){
+    public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root==null){
-            return;
+            return false;
         }
-        ll.add(root.val);
+        return helper(root,0,targetSum);
+    }
+    public boolean helper(TreeNode root,int currSum,int target){
+        if(root==null){
+            return false;
+        }
         if(root.left==null && root.right==null){
-            adj.add(new ArrayList<>(ll));
-            ll.remove(ll.size()-1);
-            return;
+            int newSum=currSum+root.val;
+             return newSum==target;
         }
-        helper(adj,ll,root.left);
-        helper(adj,ll,root.right);
-        ll.remove(ll.size()-1);
+        int newSum=currSum+root.val;
+        boolean l=helper(root.left,newSum,target);
+        boolean r=helper(root.right,newSum,target);
+        return l||r;
     }
 }
