@@ -1,22 +1,19 @@
 class Solution {
-    public int[] nextGreaterElements(int[] arr) {
+    public int[] nextGreaterElements(int[] nums) {
+        int nge[]=new int [nums.length];
         Stack<Integer>ss=new Stack<>();
-        
-        int n=arr.length;
-        int i=2*n-1;
-        int nge[]=new int[n];
-        while(i>=0){
-            int curr=arr[i%n];
+        for(int i=2 * nums.length-1;i>=0;i--){
+            int length=i % nums.length;
+            int curr=nums[length];
             while(!ss.isEmpty() && ss.peek()<=curr){
                 ss.pop();
             }
             if(ss.isEmpty()){
-                nge[i%n]=-1;
-            }if(!ss.isEmpty()){
-                nge[i%n]=ss.peek();
+                nge[length]=-1;
+            }else{
+                nge[length]=ss.peek();
             }
             ss.push(curr);
-            i--;
         }
         return nge;
     }
