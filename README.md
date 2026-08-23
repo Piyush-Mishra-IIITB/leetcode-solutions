@@ -630,6 +630,7 @@
 | [0735-asteroid-collision](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0752-open-the-lock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -939,6 +940,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
