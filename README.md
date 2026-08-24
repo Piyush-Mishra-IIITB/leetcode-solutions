@@ -802,6 +802,7 @@
 | [3838-weighted-word-mapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4001-aggregate-two-time-series](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4001-aggregate-two-time-series) |
 ## Hash Table
 |  |
 | ------- |
@@ -1242,6 +1243,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [4001-aggregate-two-time-series](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4001-aggregate-two-time-series) |
 ## Monotonic Stack
 |  |
 | ------- |
