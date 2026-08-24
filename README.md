@@ -1080,6 +1080,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -1564,6 +1565,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Union-Find
 |  |
 | ------- |
