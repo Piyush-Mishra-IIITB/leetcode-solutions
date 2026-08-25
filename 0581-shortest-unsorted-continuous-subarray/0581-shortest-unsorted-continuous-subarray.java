@@ -1,28 +1,27 @@
 class Solution {
     public int findUnsortedSubarray(int[] nums) {
-        int arr[]=new int[nums.length];
+        int newOne[]=new int[nums.length];
         for(int i=0;i<nums.length;i++){
-            arr[i]=nums[i];
+            newOne[i]=nums[i];
         }
-        Arrays.sort(arr);
-        int first=-1;
-        for(int i=0;i<arr.length;i++){
-             if(nums[i]!=arr[i]){
-                first=i;
-                break;
-             }
-        }
-        int last=-1;
-        for(int i=arr.length-1;i>=0;i--){
-            if(nums[i]!=arr[i]){
-                last=i;
+        Arrays.sort(nums);
+        int start=-1;
+        int end=-1;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]!=newOne[i]){
+                start=i;
                 break;
             }
         }
-        if(first==-1){
-            return 0;
-        }else{
-            return last-first+1;
+        for(int i=nums.length-1;i>=0;i--){
+            if(nums[i]!=newOne[i]){
+               end=i;
+               break;
+            }
         }
+        if(start==-1){
+            return 0;
+        }
+        return end-start+1;
     }
 }
