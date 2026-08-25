@@ -454,6 +454,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -770,6 +771,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2460-apply-operations-to-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -980,6 +982,7 @@
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -1565,6 +1568,7 @@
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1754,6 +1758,7 @@
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
