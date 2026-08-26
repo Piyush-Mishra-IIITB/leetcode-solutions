@@ -391,6 +391,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2719-count-of-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2937-make-three-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2937-make-three-strings-equal) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1812,6 +1813,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
