@@ -1,48 +1,62 @@
 class Solution {
-    public List<List<Integer>> fourSum(int[] nums, int target) {
+    public List<List<Integer>> fourSum(int[] arr, int target) {
 
         List<List<Integer>> ans = new ArrayList<>();
-        Arrays.sort(nums);
+        Arrays.sort(arr);
 
-        int n = nums.length;
+        for (int i = 0; i < arr.length - 3; i++) {
 
-        for (int i = 0; i < n - 3; i++) {
-
-            if (i > 0 && nums[i] == nums[i - 1]) {
+            if (i > 0 && arr[i] == arr[i - 1]) {
                 continue;
             }
-            for (int j = i + 1; j < n - 2; j++) {
-                if (j > i + 1 && nums[j] == nums[j - 1]) {
+
+            for (int j = i + 1; j < arr.length - 2; j++) {
+
+                if (j > i + 1 && arr[j] == arr[j - 1]) {
                     continue;
                 }
-                int start = j + 1;
-                int end = n - 1;
 
-                while (start < end) {
+                for (int k = j + 1; k < arr.length - 1; k++) {
 
-                    long sum = (long) nums[i] + nums[j] + nums[start] + nums[end];
+                    if (k > j + 1 && arr[k] == arr[k - 1]) {
+                        continue;
+                    }
 
-                    if (sum == target) {
+                    int start = k + 1;
+                    int end = arr.length - 1;
 
-                        ans.add(Arrays.asList(nums[i], nums[j], nums[start], nums[end]));
+                    while (start <= end) {
 
-                        start++;
-                        end--;
+                        int mid = start + (end - start) / 2;
 
-                        while (start < end && nums[start] == nums[start - 1]) {
-                            start++;
+                        long val = (long) arr[i] 
+                                 + arr[j] 
+                                 + arr[k] 
+                                 + arr[mid];
+
+                        if (val == target) {
+
+                            List<Integer> ll = new ArrayList<>();
+
+                            ll.add(arr[i]);
+                            ll.add(arr[j]);
+                            ll.add(arr[k]);
+                            ll.add(arr[mid]);
+
+                            ans.add(ll);
+
+                            break;
+
+                        } else if (val > target) {
+                            end = mid - 1;
+                        } else {
+                            start = mid + 1;
                         }
-                        while (start < end && nums[end] == nums[end + 1]) {
-                            end--;
-                        }
-                    } else if (sum < target) {
-                        start++;
-                    } else {
-                        end--;
                     }
                 }
             }
         }
+
         return ans;
     }
 }
