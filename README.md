@@ -559,6 +559,7 @@
 | [0152-maximum-product-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -825,6 +826,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0264-ugly-number-ii) |
@@ -906,6 +908,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -934,6 +937,7 @@
 | [0075-sort-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
@@ -1149,6 +1153,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -1983,4 +1988,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
