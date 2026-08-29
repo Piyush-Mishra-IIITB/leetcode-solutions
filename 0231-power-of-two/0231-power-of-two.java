@@ -3,10 +3,9 @@ class Solution {
         if(n<=0){
             return false;
         }
-        else{
-           int a=n &(n-1);
-        return  a==0;
+        if((n & n-1)==0){
+            return true;
         }
-       
-}
+        return false;
+    }
 }
