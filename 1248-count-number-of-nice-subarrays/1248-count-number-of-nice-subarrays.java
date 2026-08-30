@@ -1,35 +1,27 @@
 class Solution {
-    public int numberOfSubarrays(int[] nums, int k) {
-        return helper(nums,k)-helper(nums,k-1);
+    public int numberOfSubarrays(int[] arr, int k) {
+        return helper(arr,k)-helper(arr,k-1);
     }
-    public int helper(int nums[],int k){
-        int ans=0;
-        int i=0;
-        int odd=0;
-        HashMap<Integer,Integer>hm=new HashMap<>();
-        for(int j=0;j<nums.length;j++){
-             int curr=nums[j];
-             if(hm.containsKey(curr)){
-                hm.put(curr,hm.get(curr)+1);
-             }else{
-                hm.put(curr,1);
-             }
-             if(curr%2!=0){
-                   odd++;
-             }
-             while(odd>k){
-                int val=hm.get(nums[i]);
-                hm.remove(nums[i]);
-                if(val>1){
-                    hm.put(nums[i],val-1);
+    public int helper(int arr[],int k){
+           
+        int count=0;
+        int low=0;
+        int op=0;
+        for(int high=0;high<arr.length;high++){
+            int curr=arr[high];
+            if(curr%2!=0){
+                count++;
+            }
+
+            while(count>k){
+                int val=arr[low];
+                if(val%2!=0){
+                    count--;
                 }
-                if(nums[i]%2!=0){
-                    odd--;
-                }
-                i++;
-             }
-             ans+=j-i+1;
+                low++;
+            }
+            op+=high-low+1;
         }
-        return ans;
+        return op;
     }
 }
