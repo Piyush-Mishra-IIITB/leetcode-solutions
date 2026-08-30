@@ -373,6 +373,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1396-design-underground-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [1416-restore-the-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -879,6 +880,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1396-design-underground-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1396-design-underground-system) |
@@ -1843,6 +1845,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
