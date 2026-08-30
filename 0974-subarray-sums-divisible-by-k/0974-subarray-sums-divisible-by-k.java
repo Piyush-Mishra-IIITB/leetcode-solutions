@@ -3,24 +3,20 @@ class Solution {
         HashMap<Integer,Integer>hm=new HashMap<>();
         hm.put(0,1);
         int sum=0;
-        int count=0;
+        int ans=0;
         for(int i=0;i<nums.length;i++){
-            int curr=nums[i];
             sum+=nums[i];
-            int find=sum%k;
-            if(find<0){
-                find=(find+k)%k;
-            }
+            int find=((sum%k)+k)%k;
+            System.out.println(find);
             if(hm.containsKey(find)){
-               count+=hm.get(find);
+                ans+=hm.get(find);
             }
-            
             if(hm.containsKey(find)){
                 hm.put(find,hm.get(find)+1);
             }else{
                 hm.put(find,1);
             }
         }
-        return count;
+        return ans;
     }
 }
