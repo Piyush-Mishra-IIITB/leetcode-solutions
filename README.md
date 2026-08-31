@@ -1027,6 +1027,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
