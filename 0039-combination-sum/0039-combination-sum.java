@@ -7,12 +7,13 @@ class Solution {
     }
     public void helper(List<Integer>ll,List<List<Integer>>ans,int currSum,int target,int arr[],int ind){
         if(ind==arr.length){
+            if(currSum==target){
+                ans.add(new ArrayList<>(ll));
+                return;
+            }
             return;
         }
-        if(currSum==target){
-                ans.add(new ArrayList<>(ll));
-            return;
-            }
+        
         // skip
         helper(ll,ans,currSum,target,arr,ind+1);
 
