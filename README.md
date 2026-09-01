@@ -713,6 +713,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1091,6 +1092,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -1548,6 +1550,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1396-design-underground-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1603-design-parking-system) |
@@ -1555,6 +1558,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
@@ -1796,6 +1800,7 @@
 | [1094-car-pooling](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
