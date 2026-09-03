@@ -826,6 +826,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [4001-aggregate-two-time-series](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4001-aggregate-two-time-series) |
@@ -1126,6 +1127,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Matrix
