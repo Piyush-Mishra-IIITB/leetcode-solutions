@@ -312,6 +312,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0044-wildcard-matching) |
@@ -1265,6 +1266,7 @@
 | [0018-4sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -2048,4 +2050,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0169-majority-element) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
