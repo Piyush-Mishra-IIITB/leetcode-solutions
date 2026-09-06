@@ -1,27 +1,26 @@
 class Solution {
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
-
-        int n=graph.length;
-        int m=graph[0].length;
-        
-         List<List<Integer>>ans=new ArrayList<>();
+        List<List<Integer>>ans=new ArrayList<>();
         List<Integer>ll=new ArrayList<>();
-       helper(ll,ans,graph,n-1,0);
-       return ans;
-        
+        boolean vis[]=new boolean[graph.length];
+        helper(ll,ans,0,graph,vis);
+        return ans;
     }
-    public void helper(List<Integer>ll,List<List<Integer>>ans,int graph[][],int target,int curr_node){
-        
-        if(curr_node==target){
-            ll.add(curr_node);
+    public void helper(List<Integer>ll,List<List<Integer>>ans,int val,int graph[][],boolean vis[]){
+        // if(vis[val]==true){
+        //     return;
+        // }
+        ll.add(val);
+        // vis[val]=true;
+        if(val==graph.length-1){
             ans.add(new ArrayList<>(ll));
             ll.remove(ll.size()-1);
             return;
         }
-        ll.add(curr_node);
-        for(int it:graph[curr_node]){
-            helper(ll,ans,graph,target,it);
+        for(Integer it:graph[val]){
+            helper(ll,ans,it,graph,vis);
         }
         ll.remove(ll.size()-1);
+        // vis[val]=false;
     }
 }
