@@ -7,12 +7,13 @@ class Solution {
         return ans;
     }
     public void helper(List<Integer>ll,List<List<Integer>>ans,int val,int graph[][],boolean vis[]){
-        // if(vis[val]==true){
-        //     return;
-        // }
+        if(vis[val]==true){
+            return;
+        }
         ll.add(val);
-        // vis[val]=true;
+        vis[val]=true;
         if(val==graph.length-1){
+            vis[val]=false;
             ans.add(new ArrayList<>(ll));
             ll.remove(ll.size()-1);
             return;
@@ -21,6 +22,6 @@ class Solution {
             helper(ll,ans,it,graph,vis);
         }
         ll.remove(ll.size()-1);
-        // vis[val]=false;
+        vis[val]=false;
     }
 }
