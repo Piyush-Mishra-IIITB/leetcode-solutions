@@ -2,7 +2,7 @@ class Solution {
     Integer dp[][];
     public int numDistinct(String s, String t) {
         dp=new Integer[s.length()+1][t.length()+1];
-       return helper(0,0,s,t);
+        return helper(0,0,s,t);
     }
     public int helper(int i,int j,String s,String t){
         if(j==t.length()){
@@ -11,7 +11,6 @@ class Solution {
         if(i==s.length()){
             return 0;
         }
-
         if(dp[i][j]!=null){
             return dp[i][j];
         }
