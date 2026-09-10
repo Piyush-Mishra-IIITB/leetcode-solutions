@@ -14,38 +14,37 @@
  * }
  */
 class Solution {
-    int output=0;
+    
     public int averageOfSubtree(TreeNode root) {
-        helper(root);
-        return output;
+         if(root==null){
+            return 0;
+         }
+         int val=helper(root);
+         int totalNode=helper2(root);
+         int op=0;
+         if(val/totalNode==root.val){
+            op++;
+         }
+         op+=averageOfSubtree(root.left);
+         op+=averageOfSubtree(root.right);
+         return op;
     }
-    public void helper(TreeNode root){
-        
-        int s=sum(root);
-        int l=length(root);
-        if(l==0){
-            return;
-        }
-        if(s/l==root.val){
-            output++;
-        }
-        helper(root.left);
-        helper(root.right);
-    }
-    public int sum(TreeNode root){
+    public int helper(TreeNode root){
         if(root==null){
             return 0;
         }
-        int lh=sum(root.left);
-        int rh=sum(root.right);
+        
+        int lh=helper(root.left);
+        int rh=helper(root.right);
         return lh+rh+root.val;
     }
-    public int length(TreeNode root){
+    public int helper2(TreeNode root){
         if(root==null){
             return 0;
         }
-        int lh=length(root.left);
-        int rh=length(root.right);
+        
+        int lh=helper2(root.left);
+        int rh=helper2(root.right);
         return lh+rh+1;
     }
 }
