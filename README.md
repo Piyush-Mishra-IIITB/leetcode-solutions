@@ -248,6 +248,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
 ## Binary Tree
 |  |
@@ -829,6 +830,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -933,6 +935,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1194,6 +1197,7 @@
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
 ## Divide and Conquer
 |  |
@@ -1396,6 +1400,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
