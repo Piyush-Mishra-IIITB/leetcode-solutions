@@ -468,6 +468,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3477-fruits-into-baskets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3479-fruits-into-baskets-iii) |
@@ -820,6 +821,7 @@
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3479-fruits-into-baskets-iii) |
@@ -1031,6 +1033,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -1508,6 +1511,7 @@
 | [2466-count-ways-to-build-good-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2719-count-of-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2719-count-of-integers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Simulation
 |  |
