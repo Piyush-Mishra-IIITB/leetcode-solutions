@@ -470,6 +470,7 @@
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3477-fruits-into-baskets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3479-fruits-into-baskets-iii) |
+| [3488-closest-equal-element-queries](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
@@ -821,6 +822,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3479-fruits-into-baskets-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -924,6 +926,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
