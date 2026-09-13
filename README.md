@@ -659,6 +659,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0815-bus-routes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0817-linked-list-components) |
+| [0835-image-overlap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0845-longest-mountain-in-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -1169,6 +1170,7 @@
 | [0695-max-area-of-island](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0934-shortest-bridge) |
