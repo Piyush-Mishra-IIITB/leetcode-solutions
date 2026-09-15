@@ -395,6 +395,7 @@
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2719-count-of-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
@@ -1324,6 +1325,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -1517,6 +1519,7 @@
 | [2376-count-special-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2420-find-all-good-indices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2420-find-all-good-indices) |
 | [2466-count-ways-to-build-good-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2719-count-of-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2719-count-of-integers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1661,6 +1664,7 @@
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
