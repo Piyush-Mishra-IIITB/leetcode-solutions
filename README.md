@@ -383,6 +383,7 @@
 | [1416-restore-the-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -916,6 +917,7 @@
 | [1396-design-underground-system](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1396-design-underground-system) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1018,6 +1020,7 @@
 | [1402-reducing-dishes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -1656,6 +1659,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1642-furthest-building-you-can-reach](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
