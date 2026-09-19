@@ -1128,6 +1128,7 @@
 | [1323-maximum-69-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -1829,6 +1830,7 @@
 | [0836-rectangle-overlap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Eulerian Circuit
 |  |
