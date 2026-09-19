@@ -849,6 +849,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3978-unique-middle-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4001-aggregate-two-time-series](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4001-aggregate-two-time-series) |
 ## Hash Table
 |  |
@@ -973,6 +974,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3978-unique-middle-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Sorting
 |  |
 | ------- |
