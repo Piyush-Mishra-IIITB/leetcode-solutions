@@ -806,6 +806,7 @@
 | [2420-find-all-good-indices](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2420-find-all-good-indices) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2460-apply-operations-to-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2536-increment-submatrices-by-one](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -931,6 +932,7 @@
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1935,6 +1937,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
