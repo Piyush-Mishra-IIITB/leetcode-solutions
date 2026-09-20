@@ -1,12 +1,14 @@
 class Solution {
     public boolean canJump(int[] arr) {
-        int start=arr.length-2;
         int toReach=arr.length-1;
-        for(int i=start;i>=0;i--){
-            if(arr[i]+i>=toReach){
-                toReach=i;
+        int curr=0;
+        for(int i=0;i<arr.length;i++){
+            curr=Math.max(arr[i]+i,curr);
+            if(curr==i && i!=arr.length-1){
+                return false;
             }
         }
-        return toReach==0;
+        return true;
+
     }
 }
