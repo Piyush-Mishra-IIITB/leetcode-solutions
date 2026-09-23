@@ -1,30 +1,32 @@
 class Solution {
     public int minOperations(int[] arr, int x) {
-        int sum = 0;
-        for (int num : arr) {
-            sum += num;
+        int sum=0;
+        for(int i=0;i<arr.length;i++){
+            sum+=arr[i];
         }
-        int target = sum - x;
-        if (target < 0) {
+        if(sum<x){
             return -1;
         }
-        if (target == 0) {
+        if(sum==x){
             return arr.length;
         }
-        int currSum = 0;
-        int low = 0;
-        int maxLen = -1;
-        for (int high = 0; high < arr.length; high++) {
-            currSum += arr[high];
-            while (currSum > target) {
-                currSum -= arr[low];
+        int target=sum-x;
+        int runninngSum=0;
+        int length=Integer.MIN_VALUE;
+        int low=0;
+        for(int high=0;high<arr.length;high++){
+             runninngSum+=arr[high];
+             while(runninngSum>=target && low<arr.length){
+                if(runninngSum==target){
+                    length=Math.max(length,high-low+1);
+                }
+                runninngSum-=arr[low];
                 low++;
-            }
-            if (currSum == target) {
-                maxLen = Math.max(maxLen, high - low + 1);
-            }
+             }
         }
-        return maxLen == -1 ? -1 : arr.length - maxLen;
+        if(length==Integer.MIN_VALUE){
+            return -1;
+        }
+        return arr.length-length;
     }
 }
-    
