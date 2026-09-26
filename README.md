@@ -389,6 +389,7 @@
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -764,6 +765,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1765-map-of-highest-peak](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -931,6 +933,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
