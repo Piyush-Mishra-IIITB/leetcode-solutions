@@ -823,6 +823,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
