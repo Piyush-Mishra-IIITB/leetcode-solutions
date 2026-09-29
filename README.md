@@ -805,6 +805,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2293-min-max-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2305-fair-distribution-of-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
@@ -1226,6 +1227,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2536-increment-submatrices-by-one) |
@@ -1551,6 +1553,7 @@
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2140-solving-questions-with-brainpower](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2376-count-special-integers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2376-count-special-integers) |
@@ -2063,6 +2066,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Cartesian Tree
 |  |
 | ------- |
