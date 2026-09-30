@@ -1,49 +1,38 @@
 class Solution {
-    Integer dp[][];
-
+    Integer dp[];
     public int minCut(String s) {
-        int n = s.length();
-        dp = new Integer[n][n];
-        return helper(0, n - 1, s);
+        dp=new Integer[s.length()+1];
+        return helper(s,0,s.length()-1);
     }
-
-    public int helper(int i, int j, String s) {
-
-        if (i >= j || help(s.substring(i, j + 1))) {
+    public int helper(String s,int i,int j){
+        if(i>=j){
             return 0;
         }
-
-        if (dp[i][j] != null) {
-            return dp[i][j];
+        if(dp[i]!=null){
+            return dp[i];
         }
-
-        int op = Integer.MAX_VALUE;
-
-        for (int ind = i; ind < j; ind++) {
-
-            if (help(s.substring(i, ind + 1))) {
-
-                int ans = 1 + helper(ind + 1, j, s);
-
-                op = Math.min(op, ans);
+        if(isbol(s,i,j)){
+            return 0;
+        }
+        int ans=0;
+        int output=Integer.MAX_VALUE;
+        for(int k=i;k<=j;k++){
+            if(isbol(s,i,k)){
+                ans=1+helper(s,k+1,j);
             }
+            output=Math.min(output,ans);
         }
-
-        return dp[i][j] = op;
+        return dp[i]=output;
     }
+    public boolean isbol(String s,int i,int j){
 
-    public boolean help(String s) {
-        int i = 0;
-        int j = s.length() - 1;
-
-        while (i < j) {
-            if (s.charAt(i) != s.charAt(j)) {
+        while(i<=j){
+            if(s.charAt(i)!=s.charAt(j)){
                 return false;
             }
             i++;
             j--;
         }
-
         return true;
     }
 }
