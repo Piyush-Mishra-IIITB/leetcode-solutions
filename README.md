@@ -649,6 +649,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0648-replace-words) |
@@ -1673,6 +1674,7 @@
 | [0455-assign-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0763-partition-labels) |
