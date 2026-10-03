@@ -2155,4 +2155,8 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
