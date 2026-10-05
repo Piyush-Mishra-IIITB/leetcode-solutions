@@ -2167,6 +2167,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0595-big-countries) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
