@@ -576,6 +576,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -1009,6 +1010,7 @@
 | [0049-group-anagrams](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0169-majority-element) |
@@ -1339,6 +1341,7 @@
 | [0061-rotate-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
