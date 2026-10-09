@@ -392,6 +392,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -535,6 +536,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -1710,6 +1712,7 @@
 | [1402-reducing-dishes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -2088,6 +2091,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Cartesian Tree
