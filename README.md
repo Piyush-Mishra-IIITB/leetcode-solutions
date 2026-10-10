@@ -481,6 +481,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -824,6 +825,7 @@
 | [2293-min-max-game](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2305-fair-distribution-of-cookies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2364-count-number-of-bad-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
@@ -1073,6 +1075,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -1299,6 +1302,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -1725,6 +1729,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2384-largest-palindromic-number](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2384-largest-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
