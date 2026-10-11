@@ -2198,6 +2198,7 @@
 | [0620-not-boring-movies](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
