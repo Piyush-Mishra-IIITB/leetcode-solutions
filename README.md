@@ -870,6 +870,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -1089,6 +1090,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -1739,6 +1741,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Union-Find
