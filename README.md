@@ -65,6 +65,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -323,6 +324,7 @@
 | [0058-length-of-last-word](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -581,6 +583,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1220,6 +1223,7 @@
 | [0064-minimum-path-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0221-maximal-square) |
@@ -1429,6 +1433,7 @@
 | [0047-permutations-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/0113-path-sum-ii) |
