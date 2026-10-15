@@ -2226,6 +2226,7 @@
 | [1148-article-views-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
