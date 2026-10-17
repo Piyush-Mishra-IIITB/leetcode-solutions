@@ -872,6 +872,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -987,6 +988,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -1097,6 +1099,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
