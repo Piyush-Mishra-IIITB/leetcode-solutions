@@ -893,6 +893,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3978-unique-middle-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4001-aggregate-two-time-series](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/4001-aggregate-two-time-series) |
 ## Hash Table
