@@ -4,39 +4,43 @@ class Solution {
         int m=grid[0].length;
         for(int i=0;i<n;i++){
             if(grid[i][0]==0){
-                traversal(grid,i,0);
-            }
-            if(grid[i][m-1]==0){
-                traversal(grid,i,m-1);
+                helper(grid,n,m,i,0);
             }
         }
         for(int i=0;i<m;i++){
             if(grid[0][i]==0){
-                traversal(grid,0,i);
-            }
-            if(grid[n-1][i]==0){
-                traversal(grid,n-1,i);
+                helper(grid,n,m,0,i);
             }
         }
-        int ans=0;
+        for(int i=0;i<m;i++){
+            if(grid[n-1][i]==0){
+                helper(grid,n,m,n-1,i);
+            }
+        }
+        for(int i=0;i<n;i++){
+            if(grid[i][m-1]==0){
+                helper(grid,n,m,i,m-1);
+            }
+        }
+        int count=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==0){
-                    traversal(grid,i,j);
-                    ans++;
+                    count++;
+                    helper(grid,n,m,i,j);
                 }
             }
         }
-        return ans;
+        return count;
     }
-    public void traversal(int grid[][],int i,int j){
-        if(i<0|| i>=grid.length || j<0||j>=grid[0].length|| grid[i][j]==1){
-               return;
+    public void helper(int grid[][],int n,int m,int i,int j){
+        if(i<0 || i>=n || j<0 || j>=m || grid[i][j]==1){
+            return ;
         }
         grid[i][j]=1;
-        traversal(grid,i+1,j);
-        traversal(grid,i-1,j);
-        traversal(grid,i,j+1);
-        traversal(grid,i,j-1);
+        helper(grid,n,m,i+1,j);
+        helper(grid,n,m,i-1,j);
+        helper(grid,n,m,i,j+1);
+        helper(grid,n,m,i,j-1);
     }
 }
