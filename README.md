@@ -161,6 +161,7 @@
 | [3123-find-edges-in-shortest-paths](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3310-remove-methods-from-project](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [3310-remove-methods-from-project](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
 ## Binary Tree
 |  |
@@ -887,6 +889,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -1289,6 +1292,7 @@
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3905-multi-source-flood-fill](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3905-multi-source-flood-fill) |
 ## Divide and Conquer
 |  |
@@ -1815,6 +1819,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
