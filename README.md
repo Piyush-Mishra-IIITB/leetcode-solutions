@@ -862,6 +862,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
+| [2747-count-zero-request-servers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -998,6 +999,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2747-count-zero-request-servers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1115,6 +1117,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2747-count-zero-request-servers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -2062,6 +2065,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush-Mishra-IIITB/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
